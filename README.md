@@ -28,16 +28,24 @@ Here are some ideas to get you started:
 ⚡ Fun fact: I know Hindi
 
 #I code in 
+
 1.Java
+
 2.MySQL
+
 3.C
+
 4.HTML
+
 5.CSS
+
 6.JavaScript
 
 
 #Tools
+
   Visual Studio Code
+  
   Eclipse
   
 
